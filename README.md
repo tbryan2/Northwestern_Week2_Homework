@@ -4,6 +4,7 @@ Week 2 - VBA Homework
 
 Attached are the screenshots of the completed assignment, .bas file of the macro, and a text file of the macro.
 
+```
 Sub StockJob():
 
 For Each ws In Worksheets
@@ -125,5 +126,5 @@ Next ws
 
 End Sub
 
-
+```
 
